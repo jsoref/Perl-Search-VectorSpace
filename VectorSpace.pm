@@ -356,8 +356,8 @@ another
 anti
 any
 anything
-appaling
-appalingly
+appalling
+appallingly
 appear
 appeared
 appears
